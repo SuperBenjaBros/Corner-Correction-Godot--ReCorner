@@ -17,3 +17,5 @@
 > The MIT License Only Applies To The Code In This Repository.  
 > The Example Images Shown In the README / In [Multimedia](Multimedia) Are Not Covered By The MIT License  
 > Please Do Not Reuse Them In Your Own Projects Unless You Have Permission.
+
+ReCorners Is An [*Re*Version](https://PasteBin.com/nj4J9Qb8), Which Has No License And Is Therefore Protected By Copyright. ReCorner Is A Simple Licensed Version To Allow Public Use, Though This Does Not Mean It’s A Copy, Since The Original Implementation Is Very Generic And Short. With The Subtle Changes In Logic And Phrasing That ReCorner Introduces, It Already Stands As A Separate Work That You Can Use In Your Projects In Compliance With Its License.
